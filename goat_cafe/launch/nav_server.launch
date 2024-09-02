@@ -1,0 +1,3 @@
+<launch>
+  <node name="navigation_server" pkg="goat_cafe" type="cafe_v0.01.py" output="screen" />
+</launch>
