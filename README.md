@@ -38,6 +38,13 @@ To apply the changes, run:
 ```bash
 source ~/.bashrc
 ```
+and also we need to change username of the map.yaml
+To name the changes
+```bash
+cd goat_cafe/maps
+gedit map.yaml
+```
+change jayasankar to your username and catkin_ws to your workspace 
 6. Launch the ROS Environment
 Launch the Bringup
 In the first terminal, launch the bringup file:
